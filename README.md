@@ -1,4 +1,5 @@
 # nirmal
 <br>
 This is my first project
-author - nirmal sk
+author - nirmal (akshu)
+ i am a final year student
